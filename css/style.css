@@ -59,11 +59,11 @@ h3 {
 
 hr {
   border: 0;
-  height: 2px;
-  background-image: -webkit-linear-gradient(left, #DCDCDC, #fff, #DCDCDC);
-  background-image: -moz-linear-gradient(left, #DCDCDC, #fff, #DCDCDC);
-  background-image: -ms-linear-gradient(left, #DCDCDC, #fff, #DCDCDC);
-  background-image: -o-linear-gradient(left, #DCDCDC, #fff, #DCDCDC);
+  height: 3px;
+  background-image: -webkit-linear-gradient(left, #6e6e6e, #fff, #6e6e6e);
+  background-image: -moz-linear-gradient(left, #6e6e6e, #fff, #6e6e6e);
+  background-image: -ms-linear-gradient(left, #6e6e6e, #fff, #6e6e6e);
+  background-image: -o-linear-gradient(left, #6e6e6e, #fff, #6e6e6e);
   margin-top: 15px;
   margin-bottom: 15px;
 }
